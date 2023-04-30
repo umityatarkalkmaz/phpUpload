@@ -1,7 +1,7 @@
 # Basic upload class
 This class simply serves to add your files to the site.
 ## Dependence
-This class using my string helper class. [My string helper class]('https://github.com/umityatarkalkmaz/phpStringHelper') is here.
+This class using my string helper class. [My string helper class]('https://github.com/umityatarkalkmaz/phpStringHelper/') is here.
 
 ```php
 $imageUploader->upload('MyFile');
